@@ -41,7 +41,7 @@
       app
       color="#fcb69f"
       dark
-      src="mountains.jpg"
+      src="https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683__340.png"
       prominent
     >
       <template v-slot:img="{ props }">
